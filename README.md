@@ -1,7 +1,7 @@
 # [MICCAI'24 early accept] OCL: Ordinal Contrastive Learning for Imputating Features with Progressive Labels
 
 
-- This is the official PyTorch implementation of ***Modality-Agnostic Style Transfer for Holistic Feature Imputation.*** [Arxiv]([https://arxiv.org/abs/2503.02898](https://arxiv.org/abs/2503.02899) | [Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-72069-7_32)
+- This is the official PyTorch implementation of ***Modality-Agnostic Style Transfer for Holistic Feature Imputation.*** [Arxiv](https://arxiv.org/abs/2503.02899) | [Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-72069-7_32)
 
 <br/>
 <p align="center"><img src="concept.png" width="80%" height="80%"/></p>
